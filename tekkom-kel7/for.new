@@ -1,0 +1,9 @@
+var a = [1,2,3,4,5]
+
+untuk i = 0 sampai len(a) maka
+    jika a/i == 3 maka
+        berhenti
+    lain
+        print(a/i)
+    selesai
+selesai

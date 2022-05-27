@@ -1,0 +1,13 @@
+fungsi tambah(a, b)
+    kembalikan a+b
+selesai
+
+fungsi salam(nama) 
+    var sapa = "halo " + nama
+    print(sapa)
+selesai
+
+print("masukkan nama anda : ")
+var i = input()
+salam(i)
+
